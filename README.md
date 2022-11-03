@@ -1,2 +1,2 @@
-# SQL-devleri
+# SQL-Ödevleri
 patika SQL ödevleri
